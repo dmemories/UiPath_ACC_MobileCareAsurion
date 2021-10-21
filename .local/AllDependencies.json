@@ -1833,9 +1833,9 @@
     "restore": {
       "projectUniqueName": "ACC_MobileCareAsurion",
       "projectName": "ACC_MobileCareAsurion",
-      "projectPath": "C:\\Users\\Alkaiser\\Desktop\\Mobile Care New\\ACC_MobileCareAsurion\\.local",
+      "projectPath": "C:\\Users\\Alkaiser\\Desktop\\UiPath_ACC_MobileCareAsurion\\.local",
       "packagesPath": "C:\\Users\\Alkaiser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alkaiser\\Desktop\\Mobile Care New\\ACC_MobileCareAsurion\\.local"
+      "outputPath": "C:\\Users\\Alkaiser\\Desktop\\UiPath_ACC_MobileCareAsurion\\.local"
     },
     "frameworks": {
       "net461": {
